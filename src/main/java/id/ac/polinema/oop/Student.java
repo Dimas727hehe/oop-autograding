@@ -56,6 +56,6 @@ public class Student {
         } else if (gpa < 3.0){
             return "Satisfactory";
         }
-        return "Unknown IPK";
+        return "Unknown";
     }
 }
